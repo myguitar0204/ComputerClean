@@ -1,4 +1,4 @@
-# ComputerClean
+# ComputerClean 老舊電腦救星
 
 用 Claude Code 檢查並調校 Windows 11 電腦，讓程式執行更順暢。所有調整都可以還原。
 
